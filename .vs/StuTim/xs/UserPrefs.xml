@@ -1,16 +1,33 @@
 ﻿<Properties StartupConfiguration="{6476CFE5-73B4-4B01-B4A8-940F7BD10D3E}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Web.config">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Infrastructure/Entities/PostEntity.cs">
     <Files>
       <File FileName="Controllers/HomeController.cs" Line="1" Column="1" />
       <File FileName="Web.config" Line="32" Column="17" />
+      <File FileName="Infrastructure/Entities/UserEntity.cs" Line="20" Column="1" />
+      <File FileName="Infrastructure/Entities/LanguageEntity.cs" Line="12" Column="1" />
+      <File FileName="Infrastructure/Entities/PostEntity.cs" Line="6" Column="22" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="StuTim" expanded="True">
-            <Node name="StuTim" expanded="True" />
-            <Node name="StuTim.Tests" selected="True" />
+            <Node name="StuTim" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Infrastructure" expanded="True">
+                <Node name="Entities" expanded="True">
+                  <Node name="PostEntity.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Models" expanded="True">
+                <Node name="Services" expanded="True" />
+              </Node>
+            </Node>
           </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="StuTim" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
